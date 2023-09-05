@@ -1,0 +1,1 @@
+# Script to extract and save player data from understat

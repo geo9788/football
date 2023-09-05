@@ -1,0 +1,1 @@
+# Script to extract and save league data from understat
